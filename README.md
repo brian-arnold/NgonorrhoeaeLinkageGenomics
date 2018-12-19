@@ -1,5 +1,5 @@
 # NgonorrhoeaeLinkageGenomics
-This repository contains a collection of Perl scripts for population genetic analysis of genomic data and C++ programs used to simulate various evolutionary scenarios.
+## This repository contains a collection of Perl scripts for population genetic analysis of genomic data and C++ programs used to simulate various evolutionary scenarios.
 
 Instructions to replicate analyses:
 Copy contents into a directory, move into this directory and type the following command:
