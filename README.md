@@ -2,16 +2,16 @@
 This repository contains a collection of Perl scripts for population genetic analysis of genomic data and C++ programs used to simulate various evolutionary scenarios.
 
 
-# copy contents into a directory, move into this directory and type the following command
+copy contents into a directory, move into this directory and type the following command
 
 gunzip ./*.gz
 
-# to uncompress all gzip’d files in the current directory
-# to uncompress the FASTA files used in the analysis, move into the directory that contains these files
+to uncompress all gzip’d files in the current directory
+to uncompress the FASTA files used in the analysis, move into the directory that contains these files
 
 cd FilteredFASTAS/
 
-# and type
+and type
 
 tar zxf UK_FilteredFASTAS.tar.gz UK_FilteredFASTAS
 
