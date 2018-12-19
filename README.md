@@ -19,7 +19,7 @@ and type
 To uncompress files only for the UK dataset. This may take a minute or so. The current script is set up
 to analyze the UK dataset (using metadata specific to this population), but this may be changed by modifying
 variables at the beginning of the NgonorrhoeaeLinkageGenomics.pl Perl script.
-to run the Perl script, type: 
+To run the Perl script, type: 
 
 >perl NgonorrhoeaeLinkageGenomics.pl tmp
 
