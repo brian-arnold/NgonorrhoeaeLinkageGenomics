@@ -4,7 +4,7 @@ This repository contains a collection of Perl scripts for population genetic ana
 
 copy contents into a directory, move into this directory and type the following command
 
-gunzip ./*.gz
+<gunzip ./*.gz>
 
 to uncompress all gzip’d files in the current directory
 to uncompress the FASTA files used in the analysis, move into the directory that contains these files
