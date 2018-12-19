@@ -1,4 +1,4 @@
-One of the files that is used as input by NgonorrhoeaeLinkageGenomics.pl is named
+One of the files that is used as input by NgonorrhoeaeLinkageGenomics.pl is named:
 >NgonorrhoeaeFA1090_NmeningitidisAlpha14_AlleleTable.txt
 
 and is essentially a reformatted version of the output from the program 
