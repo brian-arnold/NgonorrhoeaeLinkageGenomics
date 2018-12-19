@@ -1,8 +1,8 @@
-One of the files that is used as input by NgonorrhoeaeLinkageGenomics.pl is named:
+The file used as input by NgonorrhoeaeLinkageGenomics.pl named:
 >NgonorrhoeaeFA1090_NmeningitidisAlpha14_AlleleTable.txt
 
-and is essentially a reformatted version of the output from the program 
-progressiveMauve that is easier to parse for downstream analyses. This subdirectory
+is essentially a reformatted version of the output from the program 
+progressiveMauve, but easier to parse for downstream analyses. This subdirectory
 contains the necessary script to recompute this table, using a reference genome
 named:
 
