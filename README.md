@@ -28,3 +28,5 @@ the code on lines 22-32. For instance, the number of bootstrap replicates may be
 variable, which is currently set to 1 to speed computation for testing. Also, the variable $wd_fa contains the 
 directory containing the FASTA files, which would need to be changed if you want to analyze the other datasets.
 
+NOTE: some of these analyses may take a bit of memory, certianly more than ~7Gb and perhaps more than ~15Gb.
+
