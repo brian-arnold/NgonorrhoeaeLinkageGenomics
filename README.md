@@ -8,17 +8,15 @@ Download or clone contents into a directory, move into this directory and type t
 
 to uncompress all gzip’d files in the current directory.
 
-To uncompress the FASTA files used in the analysis, move into the directory that contains these files
-
->cd FilteredFASTAS/
-
-and type
+To uncompress the FASTA files used in the analysis, type
 
 >tar zxf UK_FilteredFASTAS.tar.gz UK_FilteredFASTAS
 
 To uncompress files only for the UK dataset. This may take a minute or so. The current script is set up
 to analyze the UK dataset (using metadata specific to this population), but this may be changed by modifying
-variables at the beginning of the NgonorrhoeaeLinkageGenomics.pl Perl script.
+variables at the beginning of the NgonorrhoeaeLinkageGenomics.pl Perl script to analyse the US and NZ datasets
+that are also mentioned in the manuscript.
+
 To run the Perl script, type: 
 
 >perl NgonorrhoeaeLinkageGenomics.pl tmp
