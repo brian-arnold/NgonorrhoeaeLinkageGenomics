@@ -1,8 +1,8 @@
-## The following are notes about each of the output files. Note that D stands for the letter used to calculate
-## pairwise associations between SNPs (D = Pij - Pi*Pj, where Pij is the frequency with which we observe the 
-## derived mutations on the same haplotype minus the expected frequency based on random chance). Also, rN-rS
-## stands for the difference between r calculated for nonsynonymous SNPs and for synonymous SNPs, where
-## r = D/sqrt(Pi(1-Pi)Pj(1-Pj))
+The following are notes about each of the output files. Note that D stands for the letter used to calculate
+pairwise associations between SNPs (D = Pij - Pi*Pj, where Pij is the frequency with which we observe the 
+derived mutations on the same haplotype minus the expected frequency based on random chance). Also, rN-rS
+stands for the difference between r calculated for nonsynonymous SNPs and for synonymous SNPs, where
+r = D/sqrt(Pi(1-Pi)Pj(1-Pj)).
 
 ### QCfile.txt
 	> This file contains a lot of output, mostly for sanity checks, but also general summary statistics
