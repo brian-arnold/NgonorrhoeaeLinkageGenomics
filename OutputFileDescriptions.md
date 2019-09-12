@@ -5,10 +5,10 @@ stands for the difference between r calculated for nonsynonymous SNPs and for sy
 r = D/sqrt(Pi(1-Pi)Pj(1-Pj)).
 
 ### QCfile.txt
-	>This file contains a lot of output, mostly for sanity checks, but also general summary statistics
-	>that may be useful. For instance, it contains how many core genes were detected, how many
-	>synonymous and nonsynonymous SNPs were detected, but it also contains a list of genes in which 
-	>position information could not be accurately resolved.
+>This file contains a lot of output, mostly for sanity checks, but also general summary statistics
+>that may be useful. For instance, it contains how many core genes were detected, how many
+>synonymous and nonsynonymous SNPs were detected, but it also contains a list of genes in which 
+>position information could not be accurately resolved.
 
 ### SFS.txt
 	>Contains the mutation site-frequency spectrum, broken down into synonymous, nonsynonymous, and
@@ -116,5 +116,4 @@ r = D/sqrt(Pi(1-Pi)Pj(1-Pj)).
 	>in this much simpler way were very similar to those in which genes were binned into smaller SNP 
 	>distance intervals, and a weighted average across the entire gene was used to calculate a final 
 	>rN-rS value. These data were used to make Figure 5 in the manuscript.
-
 
