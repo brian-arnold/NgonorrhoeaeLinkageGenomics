@@ -1,7 +1,7 @@
 #!usr/bin/perl
 use warnings ;
 use strict ;
-use lib "/n/home11/bjarnold/PerlModules" ; # This should contain the file path that contains the Perl module loaded next
+use lib "./" ; # This should contain the file path that contains the Perl module loaded next
 use BacterialGenomics_GitHub5 ;
 
 ################################################################################################
