@@ -1,4 +1,4 @@
-The following are notes about each of the output files. Note that D stands for the letter used to calculate
+#The following are notes about each of the output files. Note that D stands for the letter used to calculate
 pairwise associations between SNPs (D = Pij - Pi*Pj, where Pij is the frequency with which we observe the 
 derived mutations on the same haplotype minus the expected frequency based on random chance). Also, rN-rS
 stands for the difference between r calculated for nonsynonymous SNPs and for synonymous SNPs, where
