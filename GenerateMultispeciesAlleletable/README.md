@@ -12,5 +12,5 @@ along with the output of progressiveMauve, named:
 
 >NgonorrhoeaeFA1090_NmeningitidisAlpha14_progMauve.alignment
 
-This alignment was produced by aligning the N. gonorrhoeae FA1090 reference 
-sequence with the N. meningitidis Alpha14 reference sequence.
+This progressiveMauve alignment was produced by aligning the N. gonorrhoeae FA1090 
+reference sequence with the N. meningitidis Alpha14 reference sequence.
